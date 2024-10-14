@@ -18,7 +18,7 @@ const data = [
         category: 'backend',
         image: Image1,
         title: "Modern Donation Hub",
-        desc: "The Modern Donation Hub is a charitable application designed to facilitate donations for orphaned children. It allows users to donate various essential items such as food, clothing, and stationery.",
+        desc: "The Modern Donation Hub is a charitable application designed to facilitate donations for orphaned children. It allows users to donate various essential items such as food, clothing, and stationery.       ",
         demo: 'https://drive.google.com/drive/folders/1EYdac88AyctUerWDGVj0SlX9U2YmvG_M?usp=sharing',
         github: 'https://github.com/sush1805'
     },
