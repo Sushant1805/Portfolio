@@ -16,9 +16,10 @@ const Footer = () => {
           }
         </div>
       </div>
-      <div className="footer__copyright">
-        <small>2024 Sushant Bhosale &copy; All Rights Reserved</small>
-      </div>
+     <div className="footer__copyright">
+  <small>Made with ❤️ by Sushant Bhosale &copy; 2025 All Rights Reserved</small>
+</div>
+
     </footer>
   )
 }
