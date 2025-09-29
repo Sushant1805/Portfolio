@@ -1,5 +1,3 @@
-import {SiAdobexd} from 'react-icons/si'
-import {RiReactjsLine} from 'react-icons/ri'
 import {FaServer} from 'react-icons/fa'
 import {AiFillAppstore} from 'react-icons/ai'
 import BugReportIcon from '@mui/icons-material/BugReport';
